@@ -83,7 +83,7 @@
 
 Подключитесь к серверу по SSH и выполните одну команду:
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/plushkinv/YadrenoVPN/main/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/SibMan54/BuranVPN/refs/heads/main/install.sh)
 ```
 
 Выберите **1) 🚀 Установка**, затем язык стрелками ↑/↓ и Enter (в простом терминале — номером). Русский выделен первым; без подтверждения установка не продолжается. Введите токен бота и ваш Telegram ID — скрипт сделает всё автоматически:
